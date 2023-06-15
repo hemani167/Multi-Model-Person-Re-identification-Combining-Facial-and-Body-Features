@@ -1,5 +1,5 @@
 # _Multi-Camera Person Tracking and Re-Identification_ (using video)
-[![HitCount](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification.svg)](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification)
+<!-- [![HitCount](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification.svg)](http://hits.dwyl.com/samihormi/https://githubcom/samihormi/Multi-Camera-Person-Tracking-and-Re-Identification)
 Simple model to _"Detect/Track"_ and _"Re-identify"_ individuals in different cameras/videos.
 
 <img align="right" img src="assets/2.gif" width="380" />  <img align="left" img src="assets/1.gif" width="380" />
@@ -9,8 +9,8 @@ Simple model to _"Detect/Track"_ and _"Re-identify"_ individuals in different ca
 <p align="center">
   <img src="assets/3.gif" width="500"/>
 </p>
-
-
+ -->
+[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/QQ7holiKs8g?feature=share))
 # # Introduction
 This project aims to track people in different videos accounting for different angles.
 
