@@ -10,7 +10,7 @@ Simple model to _"Detect/Track"_ and _"Re-identify"_ individuals in different ca
   <img src="assets/3.gif" width="500"/>
 </p>
  -->
-[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/QQ7holiKs8g?feature=share))
+[![Watch the video](https://github.com/hemani167/Multi-Model-Person-Re-identification-Combining-Facial-and-Body-Features/blob/main/Screenshot%202023-06-15%20235907.png)](https://www.youtube.com/watch?v=7oaHMRkV3d4&ab_channel=ML_engineer)
 # # Introduction
 This project aims to track people in different videos accounting for different angles.
 
